@@ -1,0 +1,16 @@
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/bin/Debug/net5.0/UdpMulticastTest
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/bin/Debug/net5.0/UdpMulticastTest.deps.json
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/bin/Debug/net5.0/UdpMulticastTest.runtimeconfig.json
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/bin/Debug/net5.0/UdpMulticastTest.runtimeconfig.dev.json
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/bin/Debug/net5.0/UdpMulticastTest.dll
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/bin/Debug/net5.0/ref/UdpMulticastTest.dll
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/bin/Debug/net5.0/UdpMulticastTest.pdb
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/UdpMulticastTest.csproj.AssemblyReference.cache
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/UdpMulticastTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/UdpMulticastTest.AssemblyInfoInputs.cache
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/UdpMulticastTest.AssemblyInfo.cs
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/UdpMulticastTest.csproj.CoreCompileInputs.cache
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/UdpMulticastTest.dll
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/ref/UdpMulticastTest.dll
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/UdpMulticastTest.pdb
+/home/mike/Developer/UdpMulticastTest/UdpMulticastTest/obj/Debug/net5.0/UdpMulticastTest.genruntimeconfig.cache
